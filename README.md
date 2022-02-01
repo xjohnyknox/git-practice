@@ -1,3 +1,2 @@
-# git-practices
-
-git-practices
+# git-practice
+Practice for Git Learning @platzi
