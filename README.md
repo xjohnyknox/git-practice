@@ -1,2 +1,3 @@
 # git-practice
-Practice for Git Learning @platzi
+
+Repo used, for practice what I learned at Platzi.
